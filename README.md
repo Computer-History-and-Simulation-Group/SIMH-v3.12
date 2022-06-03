@@ -7,7 +7,7 @@ Current Official version:  v3.12-2
 
 It is downloaded here to allow you to fork / clone for your own personal development.
 
-You are highly encouraged to visit https://simh.trailing-edge.com as there is trove of useful
+You are highly encouraged to visit http://simh.trailing-edge.com as there is trove of useful
 information and code there.
 
 ---
